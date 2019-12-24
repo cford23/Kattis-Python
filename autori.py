@@ -1,3 +1,5 @@
+# URL - https://open.kattis.com/problems/autori
+
 msg = input()
 shortened = ""
 
